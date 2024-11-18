@@ -13,7 +13,7 @@ var mailOptions = {
 	from: 'olareexample@gmail.com',
 	to:'jrotyugu@gmail.com',
 	subject: 'Sending Greetings from eversees, the country of China!',
-	text: 'How is the country Kenya. What are the progress of your elecred leaders?'
+	text: 'How is the country Kenya. What are the progress of your cancer treatment?'
 };
 
 transporter.sendMail(mailOptions, function(error, info){
