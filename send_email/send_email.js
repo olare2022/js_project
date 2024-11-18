@@ -10,8 +10,8 @@ var transporter = nodemailer.createTransport({
 });
 
 var mailOptions = {
-	from: 'olaredenish1995@gmail.com',
-	to:'jropacho57@gmail.com',
+	from: 'olareexample@gmail.com',
+	to:'jrotyugu@gmail.com',
 	subject: 'Sending Greetings from eversees, the country of China!',
 	text: 'How is the country Kenya. What are the progress of your elecred leaders?'
 };
